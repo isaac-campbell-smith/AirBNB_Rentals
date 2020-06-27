@@ -15,4 +15,5 @@ https://www.google.com/maps/d/edit?hl=en&hl=en&mid=1mISceLJfgeRCh6Bhzxu5LRsErwgk
 
 ![Map](https://raw.githubusercontent.com/isaac-campbell-smith/AirBNB_Rentals/master/images/Map.png?token=AOLJ5M5NKZ3HRQN5L7RDU7S662QNU)
 
-![Neighborhoods](https://raw.githubusercontent.com/isaac-campbell-smith/AirBNB_Rentals/master/images/Top_10_Neighborhoods.png?token=AOLJ5MYPHAEIJ35KOJXAFI2662PV2)
+
+![Neighborhoods](https://raw.githubusercontent.com/isaac-campbell-smith/AirBNB_Rentals/master/images/Top_10_Neighborhoods.png?token=AOLJ5M26I2QUCWZPRO5ZKR2662QSM)
