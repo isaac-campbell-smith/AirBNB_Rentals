@@ -20,6 +20,9 @@ def load_BNB_data():
             
         out = pd.concat([out, pd.DataFrame(clean_dict)], ignore_index=True)
         
+        out.drop_duplicates(subset=None, keep='first', inplace=True)
+        out.reset_index(drop=True, inplace=True)
+        
     return out
 
 def clean_and_convert(j_dict, idx):
